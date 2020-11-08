@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-tic-tac-toe",
-    "slug": "expo-tic-tac-toe",
+    "name": "react-native-tictactoe",
+    "slug": "react-native-tictactoe",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
